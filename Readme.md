@@ -1,0 +1,3 @@
+# Government vNext
+
+I imagine a world. A world by the people for the people. A world where people listen, discuss, agree, disagree and ultimately can choose. Both individually and as a group. The society that lives in that world is progressive and open. The government that backs that society is adaptible. It's made to evolve freely. However is right in the current moment, facing yet unknown challenges. The rules this society makes up aren't set in stone either. They can morph with the original problems and ideas for which they got created. The existence of physical borders which are free to dynamically change is commin sense, if that is what's right during that time. That world is what I am dreaming of for so long and what I am thriving for for the rest of my life.
