@@ -18,11 +18,11 @@ With all of this, I don't want to jump to an optimal system right away and stay 
 
 ## The gods within governments
 
-A couple hundred years ago we had limited understanding about the weather, so we used the concepts of higher forces to explain our observations of thunderstorms, rain, or the lack of it. Today, we have thought about enough concepts that the role of god gets less relevant within the domain of weather. We call it science and facts.
+A couple hundred years ago, we had limited understanding about the weather, so we used the concepts of higher forces to explain our observations of thunderstorms, rain, or the lack of it. Today, we have thought about enough concepts that the role of god gets less relevant within the domain of weather. We call it science and facts.
 
-In governments however, this kind of thinking is still present. It just isn't called god, but conspiracy theory instead. And it's not wheather patterns that are too complex to understand yet, but behavioural economics. That is, the pattern we got thrown into without us choosing to. Who made it and why is burried in history. Weather scientists are economists in this analogy.
+In governments, however, this kind of thinking is still present. It just isn't called god, but conspiracy theory instead. And it's not wheather patterns that are too complex to understand yet, but behavioral economics. That is, the pattern we got thrown into without us choosing to. Who made it and why is burried in history. Weather scientists are economists in this analogy.
 
-This is not a situation set in stone, but rather a point in time thing. Just as we got better as modelling weather, we'll get better at modelling behaviour to put systems in place that resonate more with humanity.
+This is not a situation set in stone, but rather a point in time thing. Just as we got better in modelling weather, we'll get better at modelling behaviour to put systems in place that resonate more with humanity.
 
 ## Measuring governments
 
