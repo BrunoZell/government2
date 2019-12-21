@@ -15,3 +15,11 @@ Secondly, let tax payers vote on how to spend a budget. Or let them spend it the
 And for the paperwork I can say to get technology for the rescue. When most tax-systems got created, available infrastrucutre and the act of pulling it off in daile life was a big consideration. Maybe even putting together a nation-wide chart. Nowadays this shouldn't be a major roadblock anymore. Paying your taxes should be automatically done with every transaction you or a company does, according to what ever rules the society aggreed on. Putting together a chart should be as simple as pressing a button. And then, we can even cryptographically proof that the correct chart is shown and no one tampered with it.
 
 With all of this, I don't want to jump to an optimal system right away and stay there. You may have even better solutions to the proposed problems, or have different problems and concerns all together I either don't see or don't affect me. Let alone the fact that any optimal system which stays fairly constant will unevitably turn into a legacy system which isn't that optimal anymore in a few decades or even years to come. I rather want a system which is adaptable to whatever situation and is able to address any persons concerns, however few people may have it.
+
+# The gods within governments
+
+A couple hundred years ago we had limited understanding about the weather, so we used the concepts of higher forces to explain our observations of thunderstorms, rain, or the lack of it. Today, we have thought about enough concepts that the role of god gets less relevant within the domain of weather. We call it science and facts.
+
+In governments however, this kind of thinking is still present. It just isn't called god, but conspiracy theory instead. And it's not wheather patterns that are too complex to understand yet, but behavioural economics. That is, the pattern we got thrown into without us choosing to. Who made it and why is burried in history. Weather scientists are economists in this analogy.
+
+This is not a situation set in stone, but rather a point in time thing. Just as we got better as modelling weather, we'll get better at modelling behaviour to put systems in place that resonate more with humanity.
