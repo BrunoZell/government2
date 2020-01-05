@@ -27,3 +27,13 @@ This is not a situation set in stone, but rather a point in time thing. Just as 
 ## Measuring governments
 
 Today, the single most important figure to measure the performance of a nation is [GDP (Gross domestic product)](https://en.wikipedia.org/wiki/Gross_domestic_product). It's an okay measure, but using that measure alone to rate a nations performance is crap. Let me explain.
+
+## Copyright and capitalism as harmful environment for innovation
+
+When current copyright laws get mixed with capitalism the (extreme) result is a society where executed creativity does not exist. In advent of the ever increasing connectiveness and the rapid development automated flagging systems undergo, our society converges with that extreme.
+
+What is required now more than ever is a new mix of copyright, fair use, public domain and patents. This, however, cannot be a pure technical method. Inspiration for the own work spans for wider that what we consiously remix, going through our subconsciousness. Thus, I can not immagine a way to automatically catch all sources of inspiration of a piece without ending in dystopia.
+
+The good thing is, we don't need it. The only thing we really should be worries about is the pure copying of a piece from another author and claiming it is theirs. Luckly, such systems we already have in place. YouTube with it's content ID system is the most prominent one.
+
+Open question: Should ever be a company the owner of an artisitc piece, or rather always the authors of it?
