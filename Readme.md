@@ -51,3 +51,15 @@ It seems to me that there are two system at play in our current society. The nat
 So in the big picture there is the global economy steering all trading countries into one direction, and many local political systems whose create the public daily life in a locality.
 
 A point here is that due to the interconectedness of all countries taking part in global trade, and therefore the global economy, we cant contain certain types of problems within single nations. The US housing market send economic shockwaves arround the world. So in a sense, we are under global leadership already. Interrestingly, that global leadership really is controlled by nobody alone. It's the captialistic concept that holds everything together.
+
+## Self regulating systems
+
+I used to think a global empire is a bad idea. I used the reasoning that when the leader of this empire does or declares something against your interest, you have nowhere else to go. In a world with multiple nations, you at least have a chance to begine a live under a regime that more suits your needs.
+
+However, I don't like this reasonging anymore. We are under global leadership already. And the key property of that leadership is that nobidy really leady it. It's just he idea of value transactions that makes everything tick.
+
+With that in mind, the logical next step is to ask ourselfes how we can influence a system that everyone takes part in but no one controls. Where do we want to go as a society and what ideas can we put in place to archieve that?
+
+The idea here is to load much stuff from the carefully manually made politics to a global system where everyone takes part in. This has to be abstract enought to work everywhere, but practical enough for everyone to understand and use.
+
+It should self regulate itself like the open market does and should steer our society into the direction we want to go without the need to actively get pushed it into that direction. Think about how the pyramid where build. Each slave had to aggressivley be convinced that they "want" to build the pyramids. Now think about how the egyption regime back then could have used an incentive structure that makes the slaves want to work on the pyramids by themselfs, just like we build our modern skyscrapers nowadays.
