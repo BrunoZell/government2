@@ -63,3 +63,22 @@ With that in mind, the logical next step is to ask ourselfes how we can influenc
 The idea here is to load much stuff from the carefully manually made politics to a global system where everyone takes part in. This has to be abstract enought to work everywhere, but practical enough for everyone to understand and use.
 
 It should self regulate itself like the open market does and should steer our society into the direction we want to go without the need to actively get pushed it into that direction. Think about how the pyramid where build. Each slave had to aggressivley be convinced that they "want" to build the pyramids. Now think about how the egyption regime back then could have used an incentive structure that makes the slaves want to work on the pyramids by themselfs, just like we build our modern skyscrapers nowadays.
+
+## Programmable money
+
+What we need is a system that converts the self interrest of all participants into the interrest of the whole society. It has to have the property of just beeing a set of ideas that make sense for people to follow and believe in.
+
+Capitalism has this interresting property of beeing a set of ideas that make sense together. So the easierst way to create such a system is to build on capitalsim. Luckily, we have broad access to computers and computer networks nowadays. This is a technology most political system underutilize. When applied right, it can be tremendously useful to steer a society.
+
+Todo: Elaborate more on why people believe in a set of ideas in a case study of capitalism.
+Todo: Elaborate on digital capitalism as explored by Michael Seemann.
+
+One major use case is the existence of programmable money. DLTs ([distributed ledger technology](https://en.wikipedia.org/wiki/Distributed_ledger)) are arround for more than a decade by now and are getting ever more mature. Using a DLT (i.e. a special kind of data structures and algorithms) we can create currencies that reach for beyond of what our paper money or current giro money can do.
+
+Todo: Elaborate more on DLTs and why they can be useful.
+
+Maybe you want to disincentivize the natural formation of monopolies. That is, the concentration of power into very few actors. Maybe logaritmic money can help? Program you money to not double in value when beeing doubled in quantity. This is hard to do with current money as they all tend to be linear, but quite easy when dealing with digital-only money.
+
+Maybe the system needs to collect micro taxes? Easy, just reroute fractions of all applicable transactions to a common pool of tax money. Then the system can decide further down the road what to do with it, just as we programmed it to do.
+
+Just because something is programmed it doesn't mean there is no human involved in that decision. It merely is just a way to guarantee that something we agreed on - the way our money works - will continue to work even though nobody actively enforces it. The computer networks will do it for us. When a given way our money does not apply anymore, the society can still get together and change the implementation of our money.
