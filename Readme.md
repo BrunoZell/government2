@@ -26,7 +26,7 @@ This is not a situation set in stone, but rather a point in time thing. Just as 
 
 ## Measuring governments
 
-Today, the single most important figure to measure the performance of a nation is [GDP (Gross domestic product)](https://en.wikipedia.org/wiki/Gross_domestic_product). It's an okay measure, but using that measure alone to rate a nations performance is crap. Let me explain.
+Today, the single most important figure to measure the performance of a nation is [GDP (Gross domestic product)](https://en.wikipedia.org/wiki/Gross_domestic_product). It's an okay measure, but using that measure alone to rate a nations performance is crap. Let me explain. (Todo)
 
 ## Copyright and capitalism as harmful environment for innovation
 
@@ -37,3 +37,17 @@ What is required now more than ever is a new mix of copyright, fair use, public 
 The good thing is, we don't need it. The only thing we really should be worries about is the pure copying of a piece from another author and claiming it is theirs. Luckly, such systems we already have in place. YouTube with it's content ID system is the most prominent one.
 
 Open question: Should ever be a company the owner of an artisitc piece, or rather always the authors of it?
+
+## Politics vs Capitalism
+
+Who makes the rules to live by in a given nations? It's the political system currently active in that nations. In modern, democratic nations this usually is laid out in a way to split the power between many people who ultimately decide what rules and laws are best fit for a given problem or situation.
+
+Now, who makes the rules of capitalism? Or to put it in another way: Who rules the global economy? There really is no ruler. Capitalism is just an abstract concept that everyone uses to make decisions based on their best interest. And due to the way this concept is laid out, it magically steers the whole world into one direction. Mostly that is innovation due to competition, or exchanging work in a transaction.
+
+Todo: Include the original idea of capital in capitalism
+
+It seems to me that there are two system at play in our current society. The national politics as we know and see it, and the global concept of economics where value is transacted. They kind of are at play with each other. Central banks can use money supply and interest rates to influence the economy, which is mostly decided based on political concerns. Also, laws can use the economy to incentivice them with fines for example.
+
+So in the big picture there is the global economy steering all trading countries into one direction, and many local political systems whose create the public daily life in a locality.
+
+A point here is that due to the interconectedness of all countries taking part in global trade, and therefore the global economy, we cant contain certain types of problems within single nations. The US housing market send economic shockwaves arround the world. So in a sense, we are under global leadership already. Interrestingly, that global leadership really is controlled by nobody alone. It's the captialistic concept that holds everything together.
