@@ -81,4 +81,12 @@ Maybe you want to disincentivize the natural formation of monopolies. That is, t
 
 Maybe the system needs to collect micro taxes? Easy, just reroute fractions of all applicable transactions to a common pool of tax money. Then the system can decide further down the road what to do with it, just as we programmed it to do.
 
+How about having multiple units of currency? One that buys you only food and shelter that get's generated for every one equally, and another one that can buy you anything you want, but can only be obtained by trade? Just describe it as a computer program.
+
 Just because something is programmed it doesn't mean there is no human involved in that decision. It merely is just a way to guarantee that something we agreed on - the way our money works - will continue to work even though nobody actively enforces it. The computer networks will do it for us. When a given way our money does not apply anymore, the society can still get together and change the implementation of our money.
+
+## Polymorphic politics
+
+This really is the vision I pursue. It's not about the perfect political system to live in. It's about the framework and infrastructure that let's us adjust the political systems to the current situation.
+
+The idea is to create the necessary infrastructure for that, create an initial base line system, and then let it evolve freely on it's own from there on.
