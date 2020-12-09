@@ -90,3 +90,33 @@ Just because something is programmed it doesn't mean there is no human involved 
 This really is the vision I pursue. It's not about the perfect political system to live in. It's about the framework and infrastructure that let's us adjust the political systems to the current situation.
 
 The idea is to create the necessary infrastructure for that, create an initial base line system, and then let it evolve freely on it's own from there on.
+
+## Simulation aided political decision making
+
+Reaching an agreement about how legislation should be laid out can be cumbersome in today politics. Discussions are full of disagreable people. But for a good reason, every one believes his solution to a problem is the best. There is a need for a better method to do political decision making.
+
+### Bring it to an objective level
+
+Everyone who presents his thoughts and oppinions on a political topic has a representation of the matter in his head, trying to communicate her vision as preceisely as possible in order for the others to replicate that. Differences in assumptions and in goals are usually the reason for that being inefficient.
+
+A better way would to describe the relevant system in an ontology language like OWL 2 (Web Ontology Language). That way different ideas can be conceptually represented and the consumers of the idea have a chance to point out exactly what, in their oppinion, misconceptions the author had or where they just disagree.
+
+Furthermore is the autor really required to think through his concept. It would be immediately obvious if an author would present us a half baked solution.
+
+### Make it constructuve
+
+It's also now possible to iterate on the idea in the public, and with others.
+
+To really drive collaboration a list of goals and non-goals for each political work item whould be crafted. This also should be provided via the ontology language to make it possible to compare and rank different ideas of different authros (parties) against each other.
+
+By doing so we can objectively determine the best idea. By defining multiple goals and realizing that no idea can do everything perfect one can start to mix and match ideas together with the goal of taking the best from every thing in order to improve the ultimately best concept even more.
+
+Here to goal shouldn't be that the own personal idea should be declared as the best and ultimately used in legislation, but instead it should turn into an collaborative team effort where the goal of all parties is to create the best possible solution.
+
+So really the political debate would be redirected on crafting the list of goals and non-goals, i.e. what is the thung we actually want to archive. Interrestingly though is that for such a question a good source wouldn't be the representatives in the government, but more the actual people in the society.
+
+### Open it up to the masses
+
+There are many brains in the world. It would be a shame to dismiss the many good ideas without addressing them. With a system like the one described above in place it is easy to open up the ranking of ideas and concepts to the public. That way anyone with a better idea can define it in an ontology language and rank it agains all other ideas.
+
+It also possible for everyone to learn from existing, working concepts and improve on them. In fact, it should be actively encuraged. For that it is important that there shouldn't be any incentive that would make ownership of an idea important as it would bring the team collaboration to a halt.
