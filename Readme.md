@@ -120,3 +120,15 @@ So really the political debate would be redirected on crafting the list of goals
 There are many brains in the world. It would be a shame to dismiss the many good ideas without addressing them. With a system like the one described above in place it is easy to open up the ranking of ideas and concepts to the public. That way anyone with a better idea can define it in an ontology language and rank it agains all other ideas.
 
 It also possible for everyone to learn from existing, working concepts and improve on them. In fact, it should be actively encuraged. For that it is important that there shouldn't be any incentive that would make ownership of an idea important as it would bring the team collaboration to a halt.
+
+## Making law interactive
+
+Current law books are written in a ultra precise language. Unfortionately that makes them really hard to understand without huge effort. This is a major problem for people who ultimately need to live in the constraints given by such laws. Without really understanding them it is risky and leads to wring behavior without the subject even wanting it.
+
+A digital twin of our society which can be used as a playground as described above can also fulfil another use case. Such a digital twin would encapsulate all laws in existence anyways, and all reactions that are followed by such a law, including behavior that results in the defined consequences in form of a punishment or whatever.
+
+With that defined, it is easy for people to look up situations they are interrested in, and just seing a list of possibilitys that can happen according to law. So the question of whether something is legal can be answered in a way that is actually understandable by practically all people.
+
+Furthermore the question of legelity can be objectively solved by a computer by matching some realy situation with the abstract representation of that situation in the digital twin, and then solving for what the law defines should happen. Most importantly shifts the question in court from what the actual consequences are to the question of what actually happened. Once it is precisely defined what happened, to the best knowledge of everyone involved, but not in more detail, the consequences can be decided by a computer based on how the law is defined.
+
+This reduces subjectivity in court. The only wiggle room is the determination of what actually happened. If it would be useful or recommended to use data collection and surveilance to determine what actually happend with a greater accuracy is an open question. In most situations it would probably possible to prove something in court without revealing private information when cryptography is used in some engenious ways.
